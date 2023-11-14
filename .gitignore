@@ -1,0 +1,9 @@
+.vs/
+x64/
+ARM64/
+Debug/
+Release/
+MyToolbox/x64/
+MyToolbox/ARM64/
+MyToolbox/Debug/
+MyToolbox/Release/
